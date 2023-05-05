@@ -3,6 +3,6 @@
 
 ## GitHub Status
 
-   ![](https://github-readme-stats.vercel.app/api?username=True-Fantom&layout=compact&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=2ed14f&icon_color=2ed14f)
+   ![](https://github-readme-stats.vercel.app/api?username=True-Fantom&layout=compact&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=2ed14f&icon_color=2ed14f&text_color=808080)
    
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=True-Fantom&layout=compact&count_private=true&hide_border=true&bg_color=00000000&title_color=2ed14f&text_color=66666666)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=True-Fantom&layout=compact&count_private=true&hide_border=true&bg_color=00000000&title_color=2ed14f&text_color=808080)
